@@ -1,0 +1,10 @@
+C:\Users\Disable Graphics\source\repos\NoteSharp\NoteSharp\obj\Debug\NoteSharp.csprojAssemblyReference.cache
+C:\Users\Disable Graphics\source\repos\NoteSharp\NoteSharp\obj\Debug\NoteSharp.Form1.resources
+C:\Users\Disable Graphics\source\repos\NoteSharp\NoteSharp\obj\Debug\NoteSharp.Properties.Resources.resources
+C:\Users\Disable Graphics\source\repos\NoteSharp\NoteSharp\obj\Debug\NoteSharp.csproj.GenerateResource.cache
+C:\Users\Disable Graphics\source\repos\NoteSharp\NoteSharp\obj\Debug\NoteSharp.csproj.CoreCompileInputs.cache
+C:\Users\Disable Graphics\source\repos\NoteSharp\NoteSharp\bin\Debug\NoteSharp.exe.config
+C:\Users\Disable Graphics\source\repos\NoteSharp\NoteSharp\bin\Debug\NoteSharp.exe
+C:\Users\Disable Graphics\source\repos\NoteSharp\NoteSharp\bin\Debug\NoteSharp.pdb
+C:\Users\Disable Graphics\source\repos\NoteSharp\NoteSharp\obj\Debug\NoteSharp.exe
+C:\Users\Disable Graphics\source\repos\NoteSharp\NoteSharp\obj\Debug\NoteSharp.pdb
